@@ -1,5 +1,5 @@
 # ai-assistant-api-stuff
-Using this to store my API / AI integrations
+Using this to store my API stuff (mostly relating to cyber) while I play around with integrating them into AI Assistants (Using BionicGPT)
 
 
 
