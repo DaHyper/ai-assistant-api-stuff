@@ -1,5 +1,7 @@
 https://www.abuseipdb.com/api.html
 
+What this will do:
+* Check if an IP has been repoted for malciious behavior (brute force, spam, etc)
 
 Check IP
 `https://www.abuseipdb.com/check/[IP]/json?key=[API_KEY]&days=[DAYS]`
