@@ -1,5 +1,9 @@
 https://docs.virustotal.com/reference/overview
 
+What this does:
+* Checks if a file, URL, or IP is flagged as malicious by multiple antivirus engines.
+  * Also great for hunting hash values
+
 Scan URL
 ```
 curl --request POST \
